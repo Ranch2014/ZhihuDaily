@@ -1,0 +1,10 @@
+platform :ios, '7.0'
+
+target "ZhihuDaily" do
+    pod 'AFNetworking', '~> 2.6'
+    pod 'MMDrawerController', '~> 0.6.0'
+    pod 'MJExtension', '~> 3.0.10'
+    pod 'SDWebImage', '~> 3.7.6'
+    pod 'Masonry', '~> 1.0.0'
+    pod 'DYMRollingBanner', '~> 2.1.7'
+end
